@@ -1,2 +1,2 @@
-# spbspu-labs-2016
-Labs for SPbSPU C++ course during Fall 2016
+# Лабораторные работы
+Лабораторные работы для курса по C++ (3 семестр СПбПУ)
